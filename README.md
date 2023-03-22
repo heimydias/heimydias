@@ -1,16 +1,13 @@
-### Hi there 👋
+## 👩‍💻 Aspirante a Programadora
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heimydias/)
+[![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.Ru&logoColor=white)](mailto:heimysantana@hotmail.com)
 
-<!--
-**heimydias/heimydias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+### 💻  Tecnologias
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heimydias&layout=compact)](https://github.com/heimydias?tab=repositories)
+
+---
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=heimydias&show_icons=true)](https://github.com/heimydias?tab=repositories)
