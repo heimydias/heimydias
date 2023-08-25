@@ -1,4 +1,4 @@
-## 👩‍💻 Desenvolvedora Full Stack Jr.
+## 👩‍💻 Desenvolvedora Backend Jr.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heimydias/)
 [![Email](https://img.shields.io/badge/Email-005FF9?style=for-the-badge&logo=mail.Ru&logoColor=white)](mailto:heimysantana@hotmail.com)
 
